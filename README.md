@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Location](https://img.shields.io/badge/Location-Argentina-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjgonzalez0000/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjgdev0000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FakkuDev)
@@ -18,7 +17,7 @@ Passionate Junior Full Stack Developer deeply motivated by continuous learning a
 * **Full Stack Development:** Building responsive frontends and reliable backends using modern web development frameworks.
 * **Product Engineering Mindset:** Eager to build useful features and understand product lifecycles to optimize developer and user experiences.
 
-### 💼 Open To
+### Open To
 * Junior Full Stack Developer positions
 * Collaborations on AI-driven products and integrations
 * Open source contributions and learning networks
