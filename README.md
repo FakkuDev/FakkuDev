@@ -9,10 +9,9 @@
 <div align="center">
 
 [![Location](https://img.shields.io/badge/Location-Argentina-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linked.in/](https://www.linkedin.com/in/fjgonzalez0000/))
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjgdev0000@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FakkuDev)
 
 </div>
 
@@ -44,22 +43,22 @@ Passionate Junior Full Stack Developer deeply motivated by continuous learning a
 
 ## 3. Tech Stack Section
 
-### 💻 Languages
+###  Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" alt="Languages" />
 </p>
 
-### 🌐 Frontend
+###  Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="Frontend" />
 </p>
 
-### 🗄️ Backend & Databases
+###  Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" alt="Backend and DB" />
 </p>
 
-### ☁️ Cloud, DevOps & Tooling
+###  Cloud, DevOps & Tooling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="DevOps and Tooling" />
 </p>
@@ -76,48 +75,6 @@ Passionate Junior Full Stack Developer deeply motivated by continuous learning a
 
 ---
 
-## 5. Featured Projects Section
-
-<details>
-<summary><b>🚀 PromptCraft: Prompt Management & Testing Dashboard</b></summary>
-<br>
-
-A full-stack playground built to design, store, and structurally evaluate tailored system prompts against different LLM API targets.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Next.js, Node.js, Express, OpenAI API, PostgreSQL |
-| **Scale** | Personal automation sandbox serving custom operational workflows |
-| **Performance** | Streamed API token delivery with active interface updates |
-| **Security** | Safe client-side API key management and encrypted database stores |
-| **Impact** | Streamlined dynamic prompt variations analysis for web automation |
-
-**Repository:** `https://github.com/username/promptcraft-dashboard`
-
-Designed explicit template parsers using JavaScript to modularize user context parameters before sending bulk queries to model completion endpoints.
-</details>
-
-<details>
-<summary><b>🛒 SmartCart: AI-Enhanced Full Stack E-Commerce</b></summary>
-<br>
-
-A junior responsive e-commerce web application running a custom-prompted conversational support assistant agent.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | React, FastAPI, Tailwind CSS, MongoDB, LangChain |
-| **Scale** | Fully functioning prototype with real-time checkout simulation |
-| **Performance** | High-speed static application paths backed by fast asynchronous endpoints |
-| **Security** | Secure JWT authentication paired with strict route middleware rules |
-| **Impact** | Boosted user discovery conversion paths during sandbox testing |
-
-**Repository:** `https://github.com/username/smartcart-ai`
-
-Implemented targeted application routing coupled with a persistent cart context system for structured JSON handling.
-</details>
-
----
-
 ## 6. Experience Section
 
 ### Junior Full Stack Developer | Tech Innovation Lab
@@ -129,20 +86,7 @@ Contributing to the design and active rollout of dynamic customer features, lear
 * Participated in code reviews, paired programming sessions, and continuous deployment workflows.
 * **Skills:** `JavaScript` `React` `Node.js` `Git` `Tailwind CSS`
 
----
 
-## 7. Achievements Section
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Bootcamp Graduate** | Successfully finished an intensive multi-month professional Full Stack engineering immersive curriculum. |
-| **Hackathon Participant** | Engineered and presented an AI-driven automation proof-of-concept during a local hackathon. |
-
-</div>
-
----
 
 ## 8. Certifications Section
 
