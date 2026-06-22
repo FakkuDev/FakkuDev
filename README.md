@@ -1,31 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=9061F9&height=250&section=header&text=Junior%20Full%20Stack%20&%20AI%20Enthusiast&fontSize=38&fontColor=FFFFFF&animation=twinkling" alt="Capsule Render Banner" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Eager+to+Learn+%26+Grow;Exploring+Prompt+Engineering;AI%2FML+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
 
 [![Location](https://img.shields.io/badge/Location-Argentina-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linked.in/](https://www.linkedin.com/in/fjgonzalez0000/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjgonzalez0000/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjgdev0000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FakkuDev)
 
 </div>
 
-<div align="center">
-
-[![Views](https://hits.seeyoufarm.com/api/count/graph/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusername&title=Profile+Views&edge_flat=true)](https://github.com)
-[![Followers](https://img.shields.io/github/followers/username?label=Followers&style=flat-square&color=8B5CF6)](https://github.com)
-[![Stars](https://img.shields.io/github/stars/username?label=Total%20Stars&style=flat-square&color=A78BFA)](https://github.com)
-
-</div>
-
 ---
 
-## 2. About Section
+## 2. About Me
 
 Passionate Junior Full Stack Developer deeply motivated by continuous learning and software engineering best practices. Actively diving into artificial intelligence ecosystems with a specialized focus on advanced prompt engineering and automation pipelines. Ready to contribute effectively to dynamic engineering teams while continuously scaling up technical knowledge.
 
@@ -41,7 +25,7 @@ Passionate Junior Full Stack Developer deeply motivated by continuous learning a
 
 ---
 
-## 3. Tech Stack Section
+## 3. My Actual Stack
 
 ###  Languages
 <p align="left">
@@ -99,67 +83,3 @@ Contributing to the design and active rollout of dynamic customer features, lear
 
 ---
 
-## 9. Coding Profiles Section
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://github.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-1BA085?style=for-the-badge&logo=HackerRank&logoColor=white)](https://github.com)
-
-</div>
-
----
-
-## 10. GitHub Analytics Section
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C3CAD2&border_color=30363D" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C3CAD2&border_color=30363D" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=dark&background=0D1117&title=A78BFA&ring=8B5CF6&fire=9061F9&text=C3CAD2&border=30363D" alt="Streak Stats" width="97%" />
-</div>
-
----
-
-## 11. GitHub Trophies Section
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
-## 12. Contribution Activity Section
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=9061F9&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" width="97%" />
-</div>
-
----
-
-## 13. Contribution Snake Section
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="97%" />
-</div>
-
----
-
-## 14. Current Focus Section
-
-```yaml
-learning:
-  - "Advanced LLM Context Structuring & Prompt Chaining"
-  - "Next.js 15 Server Components and Performance Optimizations"
-building:
-  - "Interactive prompt engineering parser and variable filler"
-  - "Clean architectural full stack templates for rapid application deployment"
-exploring:
-  - "Retrieval-Augmented Generation (RAG) using lightweight open vector systems"
-open_to:
-  - "Junior Software Developer roles and multi-tier technology teams"
-  - "AI engineering masterclasses and collaborative web development sprints"
