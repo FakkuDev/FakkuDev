@@ -1,84 +1,50 @@
-<div align="center">
+## Systems profile
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjgonzalez0000/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjgdev0000@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FakkuDev)
+<p><code>fakkudev@github:~$ whoami</code></p>
 
-</div>
-
----
-
-## 2. About Me
-
-Passionate Junior Full Stack Developer deeply motivated by continuous learning and software engineering best practices. Actively diving into artificial intelligence ecosystems with a specialized focus on advanced prompt engineering and automation pipelines. Ready to contribute effectively to dynamic engineering teams while continuously scaling up technical knowledge.
-
-* **Software Engineering:** Solid foundations in clean code architecture, data structures, and object-oriented paradigms.
-* **AI/ML Expertise:** Actively experimenting with Large Language Models (LLMs), structural prompt design, and AI-assisted workflows.
-* **Full Stack Development:** Building responsive frontends and reliable backends using modern web development frameworks.
-* **Product Engineering Mindset:** Eager to build useful features and understand product lifecycles to optimize developer and user experiences.
-
-### Open To
-* Junior Full Stack Developer positions
-* Collaborations on AI-driven products and integrations
-* Open source contributions and learning networks
-
----
-
-## 3. My Actual Stack
-
-###  Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" alt="Languages" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=fakkudev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125619665%3Fu%3De50fc2cedb0cc80fd3c812fd3b539f00d4fed08c%26v%3D4&style=terminal" alt="fakkudev hero visual" />
 </p>
 
-###  Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="Frontend" />
+**FakkuDev** · Frontend or full-stack engineer
+
+## Runtime notes
+
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = Argentina. 
+PUBLIC_REPOS = 6
+COMMUNITY   = 0 followers</code></pre>
+
+🇦🇷 
+
+## Service toolkit
+
+<p><code>fakkudev@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=fakkudev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125619665%3Fu%3De50fc2cedb0cc80fd3c812fd3b539f00d4fed08c%26v%3D4&style=terminal" alt="fakkudev stack visual" />
 </p>
 
-###  Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" alt="Backend and DB" />
+## System signals
+
+<table>
+<tr><td align="center"><b>6</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>24</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Reliable work
+
+- [japandi-landing-page-design-template](https://github.com/FakkuDev/japandi-landing-page-design-template) — TypeScript · 1 stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=fakkudev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125619665%3Fu%3De50fc2cedb0cc80fd3c812fd3b539f00d4fed08c%26v%3D4" alt="fakkudev heatmap visual" />
 </p>
 
-###  Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="DevOps and Tooling" />
+## Open a channel
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=fakkudev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125619665%3Fu%3De50fc2cedb0cc80fd3c812fd3b539f00d4fed08c%26v%3D4" alt="fakkudev social visual" />
 </p>
 
----
+<a href="https://github.com/fakkudev">GitHub</a>
 
-## 4. AI/ML Expertise Section
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Prompt Engineering** | Intermediate | Few-shot prompting, system message configuration, context windows optimization |
-| **Generative AI** | Learning | Deeply interested in OpenAI API integration, Claude SDKs, and LangChain structures |
-| **AI Integration** | Beginner | Incorporating vector tools and AI completion models into modern web applications |
-
----
-
-## 6. Experience Section
-
-### Junior Full Stack Developer | Tech Innovation Lab
-*Jan 2025 — Present*
-
-Contributing to the design and active rollout of dynamic customer features, learning core system pipelines and scalable clean patterns.
-* Assisted in building modern user-facing web applications using React and Tailwind CSS matching strict design wireframes.
-* Wrote comprehensive API integration modules using Node.js, ensuring clean documentation guidelines.
-* Participated in code reviews, paired programming sessions, and continuous deployment workflows.
-* **Skills:** `JavaScript` `React` `Node.js` `Git` `Tailwind CSS`
-
-
-
-## 8. Certifications Section
-
-<div align="center">
-  <p><i>Currently preparing for target industry examinations. Certifications coming soon!</i></p>
-
-![](https://img.shields.io/badge/Upcoming-AWS_Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws)
-![](https://img.shields.io/badge/Upcoming-Prompt_Engineering_Specialization-4C1D95?style=flat-square)
-</div>
-
----
-
+<p align="center"><sub>FakkuDev · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
