@@ -1,0 +1,41 @@
+name: Generate FakkuDev Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Diario a medianoche UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Genera stats card personalizada sin depender de shields.io
+      - name: Generate Stats SVG
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: FakkuDev
+          hide_title: true
+          hide_border: true
+          bg_color: "00000000" # Transparente para adaptar a cualquier skin
+          text_color: "currentColor"
+          icon_color: "currentColor"
+          show_icons: true
+          include_all_commits: true
+          count_private: true
+
+      # Mueve el output a una carpeta accesible
+      - name: Move Stats to Assets
+        run: |
+          mkdir -p ./assets/generated
+          mv github-readme-stats.svg ./assets/generated/stats.svg
+
+      - name: Commit & Push to Output Branch
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update stats svg [skip ci]"
+          branch: output
+          file_pattern: "assets/generated/*.svg"
