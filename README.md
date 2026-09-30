@@ -1,50 +1,39 @@
-## Systems profile
-
-<p><code>fakkudev@github:~$ whoami</code></p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=fakkudev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125619665%3Fu%3De50fc2cedb0cc80fd3c812fd3b539f00d4fed08c%26v%3D4&style=terminal" alt="fakkudev hero visual" />
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" alt="Facundo Gonzalez - FakkuDev" width="100%">
+  </picture>
 </p>
 
-**FakkuDev** · Frontend or full-stack engineer
+Desarrollo interfaces frontend y diseño sistemas visuales. Mi trabajo combina la precisión del código con la jerarquía del diseño gráfico. Opero desde Rivadavia, Mendoza, Argentina.
 
-## Runtime notes
+---
 
-<pre><code>ROLE        = Frontend or full-stack engineer
-LOCATION    = Argentina. 
-PUBLIC_REPOS = 6
-COMMUNITY   = 0 followers</code></pre>
+### Roles
+- Programador Junior Frontend Freelance
+- Diseñador Gráfico Senior Freelance
+- Editor de video (reels / tiktoks)
+- Experto en SEO e indexación en Google
 
-🇦🇷 
+### Formación
+- **Tecnicatura en Desarrollo de Software** — IES 9021
+- **CS50x (Python)** — Harvard University
+- **C#, ASP.NET Core** — Microsoft
+- **HTML, CSS, JavaScript, Inglés para desarrolladores** — freeCodeCamp
+- **Introducción a la Ciberseguridad** — Cisco
+- **Desarrollo de Apps Móviles** — Google Skills AI
 
-## Service toolkit
+### Idiomas
+Español (Nativo) · Inglés (B1) · Portugués (A2) · Italiano (A2)
 
-<p><code>fakkudev@github:~$ toolbox --list</code></p>
+---
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=fakkudev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125619665%3Fu%3De50fc2cedb0cc80fd3c812fd3b539f00d4fed08c%26v%3D4&style=terminal" alt="fakkudev stack visual" />
-</p>
+### Proyectos Destacados
+- **[COMPLETAR]**: Nombre del proyecto — Breve descripción del resultado técnico/diseño. [Ver repositorio](#)
+- **[COMPLETAR]**: Nombre del proyecto — Breve descripción del resultado técnico/diseño. [Ver repositorio](#)
 
-## System signals
-
-<table>
-<tr><td align="center"><b>6</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>24</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Reliable work
-
-- [japandi-landing-page-design-template](https://github.com/FakkuDev/japandi-landing-page-design-template) — TypeScript · 1 stars
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=fakkudev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125619665%3Fu%3De50fc2cedb0cc80fd3c812fd3b539f00d4fed08c%26v%3D4" alt="fakkudev heatmap visual" />
-</p>
-
-## Open a channel
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=fakkudev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F125619665%3Fu%3De50fc2cedb0cc80fd3c812fd3b539f00d4fed08c%26v%3D4" alt="fakkudev social visual" />
-</p>
-
-<a href="https://github.com/fakkudev">GitHub</a>
-
-<p align="center"><sub>FakkuDev · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+### Contacto
+- [GitHub](https://github.com/FakkuDev)
+- [LinkedIn](https://linkedin.com/in/fjgonzalez0000)
+- [WhatsApp](https://wa.me/[COMPLETAR])
+- [Facebook](https://facebook.com/[COMPLETAR])
